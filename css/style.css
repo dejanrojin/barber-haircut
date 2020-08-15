@@ -1115,7 +1115,7 @@ div#footerdiv ul li a {
 }
 div#footerdiv ul {
 list-style:none;	
-	    margin-left: -107px;
+margin-left: -107px;
 display: inline-flex;
 }
 
