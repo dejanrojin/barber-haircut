@@ -1,4 +1,28 @@
 @media (max-width: 1280px) {
+div#ourservice {
+   
+height: 547px;}	
+
+div#ourstaff {
+
+height: 613px;}
+
+div#shop {
+height: 635px;}
+div#appoitment {
+   
+height: 640px;}
+
+div#order {
+
+height: 590px;}
+
+div#image {
+background-size:cover!important;
+}	
+
+div#infotrack {
+margin-top: 60px;}
 
 div#linecontainer {
     margin-left: 597px;
@@ -24,6 +48,19 @@ width: 73%;}
 
 @media (max-width: 1024px) {
 	
+div#maintext {
+
+    margin-top: 20px;
+}
+div#slider {
+    
+height: 550px;}
+	
+div#linecontainer {
+    margin-left: 476px;
+    margin-top: -80px;
+}	
+	
 div#image {
     
     background-size: 140% 100% !important;
@@ -37,8 +74,16 @@ div#containeraboutus {
 div#linecontainer {
     display: inline-flex;
     width: 100%;
-    margin-left: 466px;
+
 }
+div#testamontial {
+    display: grid;
+    width: 100%;
+height: 640px;}
+
+div#testadvert {
+margin-top: 0px;}
+
 
 div#pricelisted {
 width: 100%;}
@@ -80,6 +125,21 @@ height: 150px;
 
 @media (max-width: 800px) {
 
+p#price {
+font-size: 20px;}
+
+button#btnbox {
+   
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+a#boxlink {
+  
+font-size: 11px;}
+
+button#btnaboutus {
+margin-top: -1px;}
 div#image {
     background-size: 145% 100% !important;
     background-position-x: -170px;
@@ -183,6 +243,11 @@ margin-left: -7px;}
 
 
 @media (max-width: 768px) {
+
+
+button#btnbox {
+
+padding: 5px;}
 
 div#footerdiv ul {
 
@@ -308,6 +373,10 @@ grid-template-columns: 0% 80% 20%;}
 
 
 @media (max-width: 736px) {
+
+button#btnbox {
+
+padding: 5px;}
 
 h1#featuretext {
     font-size: 30px;
@@ -933,7 +1002,7 @@ display: block;}
 
 div#serviceboxes div {
     margin: 5px;
-    height: 125px!important;
+    height: 125px;
 }
 div#testcenter {
     text-align: center;
@@ -1094,14 +1163,63 @@ padding: 6px}
 
 
 
-
-
-
 @media (max-width: 375px) {
+
+
+div#pricelisted #price {
+    margin-left: 230px;
+}
+
+
+div#pricelisted2 #price {
+    margin-left: 239px;
+}
+
+div#pricelisted3 #price {
+    margin-left: 270px;
+}
+
+
+div#pricelisted4 #price {
+    margin-left: 270px;
+}
+
+div#pricelisted5 #price {
+    margin-left: 270px;
+}
+
+
+#ourservice {
+    height: 940px !important;
+}
+
+#infotrack div {
+    margin: -18px;
+}
+
+button#btnmake {
+padding: 9px;}
+
+div#infotrack {
+    margin-top: 4px;
+}
+
+div#image {
+    background-size:cover!important;
+    background-position-x:0!important;
+    width: 100%;
+}
+
+div#aboutustext {
+	
+width:100%;	
+	
+}
 
 button#btnbox {
    
-padding: 6px}
+padding: 6px;
+}
 button#btnshop {
     margin-top: -14px;
 }
@@ -1115,7 +1233,7 @@ p#readmore {
     left: 256px;
 }
 div#divcenter {
-    margin-left: -63px;
+    margin-left: -72px;
 }
 
 p#ourservicenatpis {
@@ -1159,7 +1277,7 @@ button#btnshopdown {
     margin-top: -3px;
 }
 div#inputs {
-margin-left: -50px;}
+margin-left: -40px;}
 div#linecontainer {
 margin-left: 154px;}
 

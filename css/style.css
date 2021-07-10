@@ -5,9 +5,38 @@ padding:0;
 	
 }
 
+textarea:focus, input:focus{
+    outline: none;
+}
+
 #profesion {
     margin-top: -4px;
 }
+
+
+#menu.fixed{
+	
+position: fixed;
+right: 0;	
+color: #eeaa43;	
+
+
+}
+
+.nav.fixednav{
+background: #fff;
+ border: 2px solid #eeaa43;	
+	color: #eeaa43;	
+height: 100px;
+}
+
+
+div#menu ul li a.fixedlink{
+color: #eeaa43;		
+font-size: 10px;	
+	
+}
+
 .nav {
 
 
@@ -903,7 +932,7 @@ p#shoptext {
 	text-decoration:none;
 }
 button#btnshop {
-    margin-top: 85px;
+    margin-top: 45px;
     background: #eeaa43;
     border: 1px solid #0000;
     padding: 15px;
@@ -950,6 +979,8 @@ input#input {
     background: #000000a8;
     border: 1px solid #000000a8;
     margin: 5px;
+	color:#fff;
+	
 }
 
 input#input::placeholder {
@@ -982,6 +1013,7 @@ option:{
     background: #000000a8;
     border: 1px solid #000000a8;
     height: 226px;
+	color:#fff;
 }
 
 
@@ -1073,7 +1105,7 @@ p#orderdown {
 }
 button#btnshopdown {
 	overflow:hidden;
-    margin-top: 70px;
+    margin-top: 50px;
     background: #eeaa43;
     border: 1px solid #0000;
     padding: 11px;
@@ -1093,7 +1125,7 @@ p#ordermail {
 }
 button#btnshopmail {
 	overflow:hidden;
-    margin-top: 70px;
+    margin-top: 35px;
     background: #eeaa43;
     border: 1px solid #0000;
     padding: 11px;
@@ -1311,3 +1343,53 @@ button#btnpricelist {
 }
 nav#sandwich {
 display: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
