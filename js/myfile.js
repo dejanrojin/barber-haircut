@@ -110,7 +110,33 @@ $( "div#box4" ).mouseout(function() {
         $( "div#box4 h4" ).css('color','black');
    $( "div#box4 p" ).css('color','black');
   
-});	
+});
+
+
+window.addEventListener("scroll",function(){
+
+var menu=document.querySelector("#menu");
+var nav=document.querySelector(".nav");
+
+
+var scroll= window.pageYOffset;
+
+if(scroll>100){
+	
+menu.classList.add("fixed");	
+nav.classList.add("fixednav");	
+$("div#menu ul li a").css({"color":"#eeaa43","font-size":"15px"});
+
+}else{
+
+menu.classList.remove("fixed");	
+nav.classList.remove("fixednav");	
+$("div#menu ul li a").css({"color":"#fff","font-size":"18px"});	
+	
+}
+	
+	
+})	
  
 	
 });
