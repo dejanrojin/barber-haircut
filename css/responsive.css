@@ -1169,6 +1169,10 @@ padding: 6px}
 
 @media (max-width:375px) {
 
+#slider {
+    height: 600px !important;
+}
+
 button#btnmake {
 padding: 9px;
   margin-top: 10px!important;
@@ -1223,7 +1227,7 @@ div#pricelisted5 #price {
 
 
 div#infotrack {
-    margin-top: 4px;
+    margin-top: 9px;
 }
 
 div#image {
