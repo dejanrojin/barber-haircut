@@ -766,7 +766,7 @@ div#menu {
 nav#sandwich {
     display: block;
     position: fixed;
-	z-index:99999999;
+z-index:99999999;
 }
 
 #menuToggle input {
