@@ -1169,11 +1169,14 @@ padding: 6px}
 
 @media (max-width:375px) {
 
-#infotrack p a{
+
+#infotrack p  a{
+    text-decoration:none;
     color: #fff;
 }
-	
+
 div#shop {
+    
     height: 1550px!important;
 }
 
