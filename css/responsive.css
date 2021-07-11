@@ -761,10 +761,13 @@ div#menu {
     text-align: right;
 }
 
+
+
 nav#sandwich {
     display: block;
     position: fixed;
-z-index:99999999;
+	z-index:9999999!important;
+	
 }
 
 #menuToggle input {
@@ -1162,7 +1165,9 @@ padding: 6px}
 
 
 
-@media (max-width: 375px) {
+
+
+@media (max-width:375px) {
 
 
 div#pricelisted #price {
@@ -1277,6 +1282,7 @@ button#btnshopdown {
 }
 div#inputs {
 margin-left: -40px;}
+
 div#linecontainer {
 margin-left: 154px;}
 
