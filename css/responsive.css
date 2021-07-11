@@ -1169,10 +1169,12 @@ padding: 6px}
 
 @media (max-width:375px) {
 
-
 button#btnmake {
-    margin-top: 10px!important;
+padding: 9px;
+  margin-top: 10px!important;
 }
+
+
 div#maintext {
     margin-top: 30px;
 }
@@ -1218,8 +1220,7 @@ div#pricelisted5 #price {
     margin: -18px;
 }
 
-button#btnmake {
-padding: 9px;}
+
 
 div#infotrack {
     margin-top: 4px;
