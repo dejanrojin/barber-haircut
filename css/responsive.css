@@ -1167,6 +1167,12 @@ padding: 6px}
 
 @media (max-width:375px) {
 	
+#aboutus {
+    height: 700px !important;
+}
+#ourservice {
+height: 1140px !important;}	
+	
 div#order {
     height: 630px;
 }
@@ -1217,10 +1223,6 @@ div#pricelisted5 #price {
     margin-left: 270px;
 }
 
-
-#ourservice {
-    height: 940px !important;
-}
 
 #infotrack div {
     margin: -18px;
