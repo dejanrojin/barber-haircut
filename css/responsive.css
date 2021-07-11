@@ -1169,6 +1169,9 @@ padding: 6px}
 
 @media (max-width:375px) {
 
+div#maintext {
+    margin-top: 30px;
+}
 
 #infotrack p  a{
     text-decoration:none;
