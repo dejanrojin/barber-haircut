@@ -1169,7 +1169,7 @@ padding: 6px}
 
 @media (max-width:375px) {
 
-#infotrack p {
+#infotrack p a{
     color: #fff;
 }
 	
