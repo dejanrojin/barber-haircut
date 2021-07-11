@@ -777,11 +777,9 @@ left: 355px;
 background:#eeaa43;
 left: 360px;}
 
-body{
-	
-overflow-x:hidden;	
-	
-}
+body {
+    overflow-x: hidden;
+width: 100%;}
 #menuToggle input:checked ~ span {
     opacity: 1;
     transform: rotate(45deg) translate(-2px, -1px);
