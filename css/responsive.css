@@ -1169,6 +1169,10 @@ padding: 6px}
 
 @media (max-width:375px) {
 
+
+button#btnmake {
+    margin-top: 10px;
+}
 div#maintext {
     margin-top: 30px;
 }
