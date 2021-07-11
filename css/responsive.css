@@ -1170,8 +1170,7 @@ padding: 6px}
 @media (max-width:375px) {
 
 div#shop {
-    
-    height: 1550px;
+    height: 1550px!important;
 }
 
 div#pricelisted #price {
