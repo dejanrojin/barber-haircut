@@ -1166,6 +1166,10 @@ padding: 6px}
 
 
 @media (max-width:375px) {
+	
+div#order {
+    height: 500px;
+}
 
 #slider {
     height: 600px !important;
