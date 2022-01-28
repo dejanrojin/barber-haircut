@@ -1,0 +1,1580 @@
+@media (max-width: 1920px) {
+
+
+    div#infotrack {
+        margin-top: 222px;
+
+
+    }
+    #infotrack p {
+        font-size: 16px;}
+
+        h1#adresshead{
+            font-size: 16px;
+
+        } 
+
+        span#telephone {
+            color: #eeaa43;
+            font-size: 16px;}
+
+            p#natpis {
+               
+                font-size: 20px;} 
+
+
+                p.welcometext {
+                    font-size: 20px;
+                }
+
+                div#linecontainer {
+                    display: inline-flex;
+                    width: 100%;
+                    margin-top: -130px;
+                    margin-left: 910px;}
+
+
+                    p#readmore {
+                  
+                        margin-left: 100px;} 
+                        div#menu {
+                            text-align: right;
+                            padding-right: 44px;}
+
+}
+
+
+
+@media (max-width: 1680px) {
+   
+    div#linecontainer {
+    
+        margin-left: 795px;
+    margin-top: -120px;
+    }
+
+    p#readmore {
+        margin-left: 80px;
+    }
+
+    div#menu {
+        text-align: right;
+        padding-right: 44px;}
+
+    }
+
+
+
+@media (max-width: 1366px) {
+
+    div#menu {
+        text-align: right;
+        padding-right: 44px;}
+div#linecontainer {
+    margin-top: 36px;
+    margin-left: 640px;}
+
+    div#maintext {
+        margin-top: 20px;
+    }
+    div#infotrack {
+        margin-top: 174px;
+    }
+
+}
+
+
+
+
+
+@media (max-width: 1280px) {
+
+    div#menu {
+        text-align: right;
+        padding-right: 44px;}
+
+
+        div#ourservice {
+            height: 700px;
+        }
+        
+        div#ourstaff {
+            height: 700px;
+        }
+        
+        div#pricelist {
+           
+            height: 700px;}
+        
+        
+            div#shop {
+                height: 700px;
+            }
+        
+            div#appoitment {
+                height: 700px;
+            }
+        
+            div#order {
+                height: 700px;
+            }
+        
+
+div#image {
+background-size:cover!important;
+}	
+
+div#infotrack {
+margin-top: 180px;}
+
+div#linecontainer {
+    margin-left: 597px;
+}
+
+
+div#pricelisted {
+width: 73%;}
+
+div#pricelisted2 {
+width: 73%;}
+	
+div#pricelisted3 {
+width: 73%;}	
+
+div#pricelisted4 {
+width: 73%;}
+
+div#pricelisted5 {
+width: 73%;}
+}
+
+
+@media (max-width: 1024px) {
+	
+div#maintext {
+
+    margin-top: 20px;
+}
+div#slider {
+    
+height: 660px;}
+div#ourservice {
+    height: 660px;
+}
+
+div#ourstaff {
+    height: 660px;
+}
+
+div#pricelist {
+   
+    height: 660px;}
+
+
+    div#shop {
+        height: 660px;
+    }
+
+    div#appoitment {
+        height: 660px;
+    }
+
+    div#order {
+        height: 660px;
+    }
+
+div#linecontainer {
+    margin-left: 476px;
+    margin-top: -80px;
+}	
+	
+div#image {
+    
+    background-size: 140% 100% !important;
+    background-position-x: -170px;
+}
+div#containeraboutus {
+    margin-right: 0px!important;
+    padding-left: 110px!important;
+    padding-top: 210px!important;
+}
+div#linecontainer {
+    display: inline-flex;
+    width: 100%;
+
+}
+div#testamontial {
+    display: grid;
+    width: 100%;
+height: 640px;}
+
+div#testadvert {
+margin-top: 0px;}
+
+
+div#pricelisted {
+width: 100%;}
+
+div#pricelisted2 {
+width: 100%;}
+	
+div#pricelisted3 {
+width: 100%;}	
+	
+div#pricelisted4 {
+width: 100%;}	
+	
+div#pricelisted5 {
+width: 100%;}
+
+div#serviceboxesshop {
+    flex-wrap: nowrap;
+	margin-left: -40px;
+}
+p#readmore {
+margin-left: 33px;}
+
+#textareainput {
+    margin: 5px;
+width: 514.5px;
+height: 150px;
+}
+
+	
+}
+
+
+
+
+
+
+
+
+@media (max-width: 800px) {
+
+p#price {
+font-size: 20px;}
+
+button#btnbox {
+   
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+a#boxlink {
+  
+font-size: 11px;}
+
+button#btnaboutus {
+margin-top: -1px;}
+div#image {
+    background-size: 145% 100% !important;
+    background-position-x: -170px;
+}
+div#menu ul li a {
+    color: #fff;
+font-size: 16px;}
+
+div#serviceboxes {
+   
+flex-wrap: nowrap;}
+	
+div#linecontainer {
+margin-left: 356px;}	
+
+
+div#boxstaff1 {
+    background-size: cover;
+}
+
+div#boxstaff2 {
+    background-size: cover;
+}
+div#boxstaff3{
+    background-size: cover;
+}
+div#containerpricelist {
+    padding: 30px;
+}
+div#pricelisted #price {
+    margin-left: 242px;
+}
+div#pricelisted2 #price {
+    margin-left: 253px;
+}
+div#pricelisted3 #price {
+    margin-left: 297px;
+}
+div#pricelisted4 #price {
+margin-left: 297px;}
+
+div#pricelisted5 #price {
+margin-left: 298px;}
+
+div#serviceboxesshop div {
+    margin: 2px;
+}
+div#serviceboxesshop {
+    flex-wrap: nowrap;
+    margin-left: -112px;
+}
+input#input2 {
+ 
+width: 465px;}
+
+#textareainput2 {
+    margin: 5px;
+width: 465px;}
+
+div#footerdiv ul li a {
+ 
+font-size: 15px;}
+
+
+div#testrightshop img {
+    display: none;
+}	
+
+div#containeraboutus {
+   padding: 70px;
+    margin-right: 0px!important;
+    padding-left: 40px!important;
+    padding-top: 180px!important;
+	
+}
+div#image2 {
+    background-position-x:555px;
+    background-size: cover!important;
+	}
+	
+div#testcenterorder {
+ 
+    margin-left: 165px;
+}
+button#btnshopdown {
+    margin-left: -30px;
+}
+div#order {
+  
+grid-template-columns: 0% 80% 20%;}	
+
+div#footerdiv ul {
+
+margin-left: -7px;}
+
+}
+
+
+
+
+
+
+@media (max-width: 768px) {
+
+
+button#btnbox {
+
+padding: 5px;}
+
+div#footerdiv ul {
+
+margin-left: -7px;}
+
+div#linecontainer {
+    margin-left: 338px;
+}
+div#serviceboxesshop div {
+    margin: 4px;
+}
+
+div#serviceboxesshop {
+transform: scale(0.9);}
+
+div#serviceboxesshop {
+    flex-wrap: nowrap;
+    margin-left: -127px;
+}
+textarea#textareainput2::placeholder {
+    font-size: 12px;
+}
+input#input2::placeholder{
+font-size: 12px;
+	
+}
+
+input#input2 {
+width: 445px;}
+#textareainput2 {
+    margin: 5px;
+width: 445px;}
+	
+ul.nav img {
+    width: 100px;
+    height: 80;
+}
+div#footerdiv ul li a {
+    font-size: 14px;
+}
+
+div#testrightshop img {
+    display: none;
+}	
+
+div#containeraboutus {
+	
+    padding: 70px;
+    margin-right: 0px!important;
+    padding-left: 40px!important;
+    padding-top: 180px!important;
+}
+
+div#image2 {
+    background-position-x:555px;
+    background-size: cover!important;
+}
+div#pricelisted {
+    width: 97%;
+}
+div#pricelisted2 {
+    width: 97%;
+}
+
+div#pricelisted3 {
+    width: 97%;
+}
+
+div#pricelisted4 {
+    width: 97%;
+}
+div#pricelisted5 {
+    width: 97%;
+}
+div#pricelisted #price {
+    margin-left: 224px;
+}
+
+div#pricelisted2 #price {
+    margin-left: 235px;
+}
+div#pricelisted3 #price {
+    margin-left: 279px;
+}
+div#pricelisted4 #price {
+margin-left: 279px;}
+
+div#pricelisted5 #price {
+margin-left: 280px;}
+
+div#testcenterorder {
+ 
+    margin-left: 165px;
+}
+button#btnshopdown {
+    margin-left: -30px;
+}
+
+div#order {
+  
+grid-template-columns: 0% 80% 20%;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 736px) {
+
+button#btnbox {
+
+padding: 5px;}
+
+h1#featuretext {
+    font-size: 30px;
+    color: #eeaa43;
+    font-weight: 500;
+}
+
+div#maintext {
+    text-align: -webkit-center;
+    margin-top: -20px;
+}
+p#number {
+    font-size: 20px;
+}
+
+div#infotrack {
+margin-top: 50px}
+
+div#image {
+    background-position-x: -150px;
+}
+div#containeraboutus {
+    padding: 70px;
+    margin-right: 0px!important;
+    padding-left: 40px!important;
+    padding-top: 80px!important;
+}
+
+
+div#serviceboxes div {
+height: 230px;}	
+	
+div#box4 img {
+    margin-top: 13px;
+}
+div#box1 img {
+    margin-top: 13px;
+}
+div#box2 img {
+    margin-top: 13px;
+
+}
+
+div#box3 img {
+    margin-top: 13px;
+
+}
+
+
+div#serviceboxes p {
+    line-height: 22px;
+    font-size: 12px;
+}
+
+div#testadvert {
+    display: none;
+}
+div#linecontainer {
+    margin-left: 324px;
+   
+}
+
+div#serviceboxesshop div {
+    margin: 4px;
+    transform: scale(0.8);
+}
+
+div#serviceboxesshop {
+    flex-wrap: nowrap;
+    margin-left: -137px;
+    margin-top: -40px;
+}
+
+div#divcentershop {
+    text-align: center;
+    margin-top: 20px;
+}
+
+div#testcenterapp {
+    text-align: center;
+    margin-top: 20px;
+}
+div#testcenterorder {
+    margin-left: 165px;
+    margin-top: 20px;
+}
+input#input2 {
+    padding: 4px;
+}
+button#btnshopdown {
+    margin-top: 14px;
+    
+}
+div#footerdiv ul li a {
+    font-size: 13px;
+}
+select {
+    padding: 4px;
+  
+}
+input#input {
+    padding: 4px;
+  
+}
+
+button#btnshop {
+margin-top: -30px;}
+
+#textareainput {
+    height: 80px;
+}
+button#btnshopmail {
+
+margin-top: 16px;}
+
+p#natpis {
+    font-size: 13px;
+}
+p#textprice {
+    font-size: 16px;
+}
+
+button#btnpricelist {
+    margin-top: 10px;
+}
+div#pricelisted {
+padding: 4px;}
+p#price {
+font-size: 20px;}
+
+div#pricelisted2 {
+    padding: 4px;
+}
+
+div#pricelisted3 {
+    padding: 7px;
+}
+
+div#pricelisted3 {
+    width: 95%;
+}
+
+div#pricelisted4 {
+    padding: 7px;
+}
+
+div#pricelisted4 {
+    width: 95%;
+}
+
+div#pricelisted5 {
+    padding: 7px;
+}
+
+div#pricelisted5 {
+    width: 95%;
+}
+
+.textprice3 {
+    margin-left: -3px;
+}
+
+.textprice4 {
+    margin-left: -3px;
+}
+.textprice5 {
+    margin-left: -3px;
+}
+div#pricelisted2 #price {
+    margin-left: 233px;
+}
+div#pricelisted3 #price {
+    margin-left: 269px;
+}
+div#pricelisted4 #price {
+    margin-left: 269px;
+}
+div#pricelisted5 #price {
+    margin-left: 269px;
+}
+
+button#btnpricelist {
+    margin-top: 25px;
+    background: #eeaa43;
+    border: 1px solid #0000;
+    padding: 15px;
+    font-weight: 600;
+}
+.textprice2 {
+    margin-top: 2px;
+}
+.textprice1 {
+    margin-top: 2px;
+}
+div#image2 {
+background-position-x: 355px;}
+div#testcenterorder {
+margin-left: 125px;}
+
+div#divcenter {
+    margin-left: -100px;
+    text-align: center;
+    margin-top: 20px;
+    width: 140%;
+}
+div#staffboxes div {
+    height: 240px;
+    margin: 5px;
+}
+div#boxstaff1 h4 {
+    margin-top: 245px;
+    font-size: 20px;
+}
+div#boxstaff2 h4 {
+    margin-top: 245px;
+    font-size: 20px;
+}
+div#boxstaff3 h4 {
+    margin-top: 245px;
+    font-size: 20px;
+}
+
+}
+
+
+@media (max-width: 640px) {
+
+	
+div#maintext {
+    text-align: -webkit-center;
+       margin-top: -40px;
+}
+#infotrack p {
+font-size: 11px;}
+
+	
+div#menu ul li a {
+    color: #fff;
+    font-size: 12px;
+}
+div#serviceboxesshop div {
+margin: -13px;}	
+	
+div#serviceboxesshop {
+    flex-wrap: nowrap;
+margin-left: -107px;}
+	
+button#btnshop {
+    margin-top: -30px;
+}
+button#btnshopmail {
+    margin-top: 4px;
+}
+button#btnshopdown {
+    margin-top: 2px;
+}
+	
+div#linecontainer {
+    margin-left: 274px;
+}
+div#staffboxes div {
+    height: 240px;
+    margin: 5px;
+    margin-top: -5px;
+}
+
+
+
+div#boxstaff1 h4 {
+    margin-top: 215px;
+    font-size: 15px;
+}
+
+div#boxstaff2 h4 {
+    margin-top: 215px;
+    font-size: 15px;
+}
+div#boxstaff3 h4 {
+    margin-top: 215px;
+    font-size: 15px;
+}
+div#staffboxes div {
+    height: 210px;
+    margin: 5px;
+    margin-top: -5px;
+    margin-left: 20px;
+}	
+
+
+
+	
+	
+div#containeraboutus {
+    padding-top: 15px!important;
+}	
+div#image {
+    background-position-x: -130px;
+}
+div#serviceboxes {
+    flex-wrap: nowrap;
+    margin-left: 40px;
+}
+div#testcenter {
+    text-align: center;
+    margin-top: 80px;
+}
+p#natpis {
+    font-size: 12px;
+}
+p#ourservicenatpis {
+font-size: 12px;}
+
+div#pricelisted #price {
+    margin-left: 170px;
+}
+div#pricelisted2 #price {
+    margin-left: 179px;
+}
+div#pricelisted3 #price {
+    margin-left: 215px;
+}	
+div#pricelisted4 #price {
+    margin-left: 215px;
+}
+div#pricelisted5 #price {
+    margin-left: 215px;
+}
+button#btnpricelist {
+margin-top: 10px;}	
+
+#textareainput {
+    height: 50px;
+	    width: 414.5px;
+}
+
+#textareainput2 {
+    height: 92px;
+}	
+div#testcenterorder {
+    margin-left: 90px;
+}
+button#btnshopdown {
+    margin-left: 40px;
+}
+div#footerdiv ul li a {
+    font-size: 11px;
+}	
+	
+}
+
+
+@media (max-width: 480px) {
+	
+    div#maintext {
+        text-align: -webkit-center;
+         text-align: -moz-center;
+            margin-top: 90px;
+    }
+
+div#serviceboxes div {
+height: 230px;}	
+	
+div#box4 img {
+    margin-top: 13px;
+}
+div#box1 img {
+    margin-top: 13px;
+}
+div#box2 img {
+    margin-top: 13px;
+
+}
+
+div#box3 img {
+    margin-top: 13px;
+
+}
+
+
+div#serviceboxes p {
+    line-height: 22px;
+    font-size: 12px;
+}
+
+
+div#menu {
+    display: none;
+    text-align: right;
+}
+
+
+
+nav#sandwich {
+    display: block;
+    position: fixed;
+	z-index:9999999!important;
+	
+}
+
+#menuToggle input {
+left: 355px;
+}
+#menuToggle span {
+background:#eeaa43;
+left: 360px;}
+
+body {
+    overflow-x: hidden;
+width: 100%;}
+#menuToggle input:checked ~ span {
+    opacity: 1;
+    transform: rotate(45deg) translate(-2px, -1px);
+    background: #eeaa43;
+}
+
+#menu2 {
+margin-top: -150px!important;
+background:#eeaa43
+}
+#menu2 li {
+color: #fff;}
+div#infotrack {
+    margin-top: 10px;
+}
+div#image {
+    display: none;
+}
+div#box1 img {
+    margin-top: 13px;
+    display: none;
+}
+div#box2 img {
+    margin-top: 13px;
+    display: none;
+}	
+	
+div#box3 img {
+    margin-top: 13px;
+    display: none;
+}	
+	
+div#box4 img {
+    margin-top: 13px;
+    display: none;
+}	
+
+div#box1 h4 {
+    font-size: 12px;
+    margin-top: 10px;
+}
+div#box2 h4 {
+    font-size: 12px;
+    margin-top: 10px;
+}
+	
+div#box3 h4 {
+    font-size: 12px;
+    margin-top: 10px;
+}	
+	
+div#box4 h4 {
+    font-size: 12px;
+    margin-top: 10px;
+}
+	
+div#serviceboxes div {
+    margin: 5px;
+    height: 180px!important;
+}	
+	
+	
+div#testcenter {
+    text-align: center;
+    margin-top: 20px;
+}
+#testboxes1 {
+margin-top: 5px;}
+	
+div#linecontainer {
+    margin-left: 197px;
+}
+div#testboxes1 p {
+font-size: 13px;
+}
+
+
+div#staffboxes div {
+height: 130px;}	
+
+div#boxstaff2 h4 {
+    margin-top: 145px;
+}
+
+div#boxstaff1 h4 {
+    margin-top: 145px;
+}
+div#boxstaff3 h4 {
+    margin-top: 145px;
+}
+	
+div#boxstaff4 h4 {
+    margin-top: 145px;
+}	
+div#staffboxes {
+margin-left: 40px;}
+
+div#image2 {
+display: none;}
+div#containerpricelist {
+    margin-top: -20px;
+}
+
+p#textprice {
+    font-size: 14px;
+}
+button#btnpricelist {
+    margin-top: -10px;
+}
+div#serviceboxesshop {
+    transform: scale(0.7);
+    margin-left: -135px!important;
+}
+p#readmore {
+font-size: 16px;}
+div#serviceboxesshop {
+    flex-wrap: nowrap;
+    margin-left: -137px;
+    margin-top: -65px;
+}
+
+button#btnshop {
+    margin-top: -54px;
+}
+div#divcenter {
+margin-left: -77px;}
+div#pricelisted #price {
+    margin-left: 320px;
+}
+div#pricelisted2 #price {
+    margin-left: 328px;
+}
+div#pricelisted3 #price {
+    margin-left: 359px;
+	margin-top: -2px;
+}
+div#pricelisted4 #price {
+	    margin-top: -2px;
+    margin-left: 359px;
+}
+div#pricelisted5 #price {
+	    margin-top: -2px;
+    margin-left: 359px;
+}
+p#shoptext {
+    margin-top: 20px;
+    font-size: 18px;
+}
+div#inputs {
+    transform: scale(0.9);
+    margin-left: -40px;
+    margin-top: -20px;
+}
+button#btnshopmail {
+    margin-top: -12px;
+}
+div#testcenterorder {
+    margin-left: 50px;
+}
+#textareainput2 {
+    height: 82px;
+}
+button#btnshopdown {
+    margin-left: 40px; 
+    margin-top: -8px;
+}
+ul.nav img {
+    width: 90px;
+    height: 70;
+}
+div#footerdiv ul li a {
+    font-size: 7px;
+}
+
+#menuToggle input:checked ~ ul {
+    transform: none;
+    z-index: 9999999999999999;
+}
+
+}
+
+
+
+
+
+
+
+
+@media (max-width: 414px) {
+
+#menuToggle span {
+margin-left: -80px;}
+
+div#maintext {
+    text-align: -webkit-center;
+    margin-top: 50px;
+}
+div#infotrack {
+    display: block;
+    margin-top: 10px;
+}
+div#infotrack div {
+    padding: 15px;
+}
+h1#adresshead {
+    color: #eeaa43;
+    font-size: 17px;
+}
+#menuToggle input {
+    left: 276px;
+}
+#menu2 {
+width: 200px;}
+
+div#containeraboutus {
+    padding-top: 215px!important;
+}
+div#serviceboxes {
+display: block;}
+
+div#serviceboxes div {
+    margin: 5px;
+    height: 125px;
+}
+div#testcenter {
+    text-align: center;
+    margin-top: 20px;
+    height: 253px;
+}
+div#testboxes1 p {
+    font-size: 13px;
+}
+div#testboxes2 p {
+    font-size: 13px;
+}
+div#testboxes3 p {
+    font-size: 13px;
+}
+div#linecontainer {
+    margin-left: 167px;
+    margin-top: -170px;
+}
+
+
+div#staffboxes {
+    margin-left: 40px;
+    display: grid;
+}
+	
+
+div#staffboxes div {
+	    width: 300px;
+    height: 330px;
+    margin: 5px;
+}
+
+div#ourstaff {
+height: 1200px;}	
+	
+div#boxstaff1 h4 {
+    margin-top: 145px;
+    color: #fff;
+    font-size: 30px;
+}
+div#boxstaff1 p {
+    margin-bottom: 10px;
+color: #ffffff96;}	
+	
+div#boxstaff2 h4 {
+    margin-top: 145px;
+    color: #fff;
+    font-size: 30px;
+}
+div#boxstaff2 p {
+    margin-bottom: 10px;
+color: #ffffff96;}	
+	
+div#boxstaff3 h4 {
+    margin-top: 145px;
+    color: #fff;
+    font-size: 30px;
+}
+div#boxstaff3 p {
+    margin-bottom: 10px;
+color: #ffffff96;}	
+
+div#serviceboxesshop {
+    display: unset;
+}
+div#shop {
+    display: grid;
+    width: 100%;
+height: 1500px;}
+
+button#btnshop {
+    margin-top: -14px;
+}
+p#readmore {
+    margin-left: 105px;
+}
+
+
+p#priceshop {
+ 
+font-size: 30px;
+}	
+
+div#serviceboxesshop div {
+    margin: -30px;
+}
+
+input#input {
+    padding: 10px;
+width: 350px;}
+
+select{
+    padding: 10px;
+width: 350px;}
+	
+#textareainput {
+    height: 50px;
+    width: 350px;
+}
+button#btnshopmail {
+    margin-top: 12px;
+}
+input#input2 {
+    width: 385px;
+}
+#textareainput2 {
+    width: 385px;
+}
+#textareainput2::placeholder {
+  font-size:13px;
+}
+textarea#textareainput2::placeholder {
+    font-size: 11px;
+}
+div#order {
+    height: 400px;
+}	
+	
+button#btnshopdown {
+    margin-left: 40px;
+    margin-top: 18px;
+}
+div#footerdiv {
+    display: none;
+}	
+div#box1 h4 {
+    line-height: 30px;
+}
+div#box3 h4 {
+    line-height: 30px;
+}
+div#box2 h4 {
+    line-height: 30px;
+}
+div#box4 h4 {
+    line-height: 30px;
+}
+div#ourservice h1 {
+    margin-left: 50px;
+}
+
+span#crta1 {
+    margin-left: -140px;
+    color: #eeaa43;
+    font-size: 30px;
+}
+	
+#menuToggle input:checked ~ ul {
+    transform: none;
+    z-index: 9999999999999999;
+}
+button#btnbox {
+   
+padding: 6px}
+
+div#maintext {
+    text-align: -webkit-center;
+	 text-align: -moz-center;
+	    margin-top: 90px;
+}
+
+}
+
+
+
+
+
+
+@media (max-width:375px) {
+	
+    div#maintext {
+        text-align: -webkit-center;
+         text-align: -moz-center;
+            margin-top: 90px;
+    }
+
+#aboutus {
+    height: 700px !important;
+}
+#ourservice {
+height: 1140px !important;}	
+	
+div#order {
+    height: 630px;
+}
+
+#slider {
+    height: 600px !important;
+}
+
+button#btnmake {
+padding: 9px;
+  margin-top: 10px!important;
+}
+
+
+div#maintext {
+    margin-top: 30px;
+}
+
+#infotrack p  a{
+    text-decoration:none;
+    color: #fff;
+}
+
+div#shop {
+    
+    height: 1550px!important;
+}
+
+div#pricelisted #price {
+    margin-left: 230px;
+}
+
+
+div#pricelisted2 #price {
+    margin-left: 239px;
+}
+
+div#pricelisted3 #price {
+    margin-left: 270px;
+}
+
+
+div#pricelisted4 #price {
+    margin-left: 270px;
+}
+
+div#pricelisted5 #price {
+    margin-left: 270px;
+}
+
+
+#infotrack div {
+    margin: -18px;
+}
+
+
+
+div#infotrack {
+    margin-top: 9px;
+}
+
+div#image {
+    background-size:cover!important;
+    background-position-x:0!important;
+    width: 100%;
+}
+
+div#aboutustext {
+	
+width:100%;	
+	
+}
+
+button#btnbox {
+   
+padding: 6px;
+}
+button#btnshop {
+    margin-top: -14px;
+}
+p#readmore {
+    margin-left: 92px;
+}
+#menuToggle span {
+    margin-left: -100px;
+}
+#menuToggle input {
+    left: 256px;
+}
+div#divcenter {
+    margin-left: -72px;
+}
+
+p#ourservicenatpis {
+margin-left: 40px;}
+
+div#ourservice h1 {
+    margin-left: 35px;
+}
+div#testcenter h1 {
+    margin-left: 10px;
+    color: #fff;
+}
+span#crta1 {
+margin-left: 30px;}
+	
+#testamontial span#crta1 {
+    margin-left: 10px;
+}	
+div#ourstaff h1 {
+    margin-left: 23px;
+}
+#pricelist span#crta1 {
+    margin-left: -0px;
+}
+#shop span#crta1 {
+    margin-left: -140px;
+}
+div#testcenterorder h1 {
+    margin-left: 40px;
+    color: #000;
+}
+input#input2 {
+    width: 355px;
+}
+#textareainput2 {
+    width: 355px;
+}
+	
+button#btnshopdown {
+    margin-left: 40px;
+    margin-top: -3px;
+}
+div#inputs {
+margin-left: -40px;}
+
+
+div#linecontainer {
+    margin-left: 159px;
+    margin-top: -158px;}
+	
+}
+
+
+@media (max-width: 360px){
+	
+div#serviceboxes {
+    display: block;
+    margin-top: -16px;
+}	
+	
+div#linecontainer {
+    margin-left: 148px;
+}
+input#input {
+    padding: 10px;
+    width: 340px;
+}
+select {
+    padding: 10px;
+    width: 340px;
+}	
+#textareainput{
+    padding: 10px;
+    width: 340px;
+}	
+
+#menuToggle input {
+    left: 248px;
+}
+#menuToggle span {
+    margin-left: -105px;
+}
+p#readmore {
+    margin-left: 87px;
+}
+}
+
+
+@media (max-width: 320px){
+
+div#maintext {
+    text-align: -webkit-center;
+    margin-top: 10px;
+}
+#menuToggle span {
+    margin-left: -155px;
+}
+#menuToggle input {
+    left: 201px;
+}
+
+div#ourservice {
+height: 680px;}
+
+#menu2 {
+margin-top: 50px!important;}
+
+
+input#input {
+    width: 310px;
+}
+select {
+    padding: 10px;
+    width: 310px;
+}	
+#textareainput{
+    padding: 10px;
+    width: 310px;
+}	
+button#btnshopmail {
+    margin-top: 12px;
+    width: 230px;
+}
+button#btnshopmail {
+margin-left: -9px;}
+
+input#input2 {
+    width: 310px;
+}
+
+#textareainput2{
+    padding: 10px;
+    width: 310px;
+}	
+button#btnshopdown {
+margin-left: 10px;}
+
+p#readmore {
+    margin-left: 73px;
+}
+div#staffboxes div {
+    width: 250px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
