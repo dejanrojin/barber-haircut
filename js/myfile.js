@@ -138,8 +138,13 @@ $("div#menu ul li a").css({"color":"#fff","font-size":"18px"});
 	
 })	
  
-	
+
+
+
+jQuery(window).on('load', function(){
+  $('.preloader').fadeOut(3900);
 });
 
 
-
+	
+});
