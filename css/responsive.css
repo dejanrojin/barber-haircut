@@ -1303,6 +1303,165 @@ div#maintext {
 
 
 
+@media (max-width:390px) {
+	
+    div#maintext {
+        text-align: -webkit-center;
+         text-align: -moz-center;
+            margin-top: 90px;
+    }
+
+#aboutus {
+    height: 700px !important;
+}
+#ourservice {
+height: 1140px !important;}	
+	
+div#order {
+    height: 630px;
+}
+
+#slider {
+    height: 600px !important;
+}
+
+button#btnmake {
+padding: 9px;
+  margin-top: 10px!important;
+}
+
+
+div#maintext {
+    margin-top: 30px;
+}
+
+#infotrack p  a{
+    text-decoration:none;
+    color: #fff;
+}
+
+div#shop {
+    
+    height: 1550px!important;
+}
+
+div#pricelisted #price {
+    margin-left: 230px;
+}
+
+
+div#pricelisted2 #price {
+    margin-left: 239px;
+}
+
+div#pricelisted3 #price {
+    margin-left: 270px;
+}
+
+
+div#pricelisted4 #price {
+    margin-left: 270px;
+}
+
+div#pricelisted5 #price {
+    margin-left: 270px;
+}
+
+
+#infotrack div {
+    margin: -18px;
+}
+
+
+
+div#infotrack {
+    margin-top: 9px;
+}
+
+div#image {
+    background-size:cover!important;
+    background-position-x:0!important;
+    width: 100%;
+}
+
+div#aboutustext {
+	
+width:100%;	
+	
+}
+
+button#btnbox {
+   
+padding: 6px;
+}
+button#btnshop {
+    margin-top: -14px;
+}
+p#readmore {
+    margin-left: 92px;
+}
+#menuToggle span {
+    margin-left: -100px;
+}
+#menuToggle input {
+    left: 256px;
+}
+div#divcenter {
+    margin-left: -72px;
+}
+
+p#ourservicenatpis {
+margin-left: 40px;}
+
+div#ourservice h1 {
+    margin-left: 35px;
+}
+div#testcenter h1 {
+    margin-left: 10px;
+    color: #fff;
+}
+span#crta1 {
+margin-left: 30px;}
+	
+#testamontial span#crta1 {
+    margin-left: 10px;
+}	
+div#ourstaff h1 {
+    margin-left: 23px;
+}
+#pricelist span#crta1 {
+    margin-left: -0px;
+}
+#shop span#crta1 {
+    margin-left: -140px;
+}
+div#testcenterorder h1 {
+    margin-left: 40px;
+    color: #000;
+}
+input#input2 {
+    width: 355px;
+}
+#textareainput2 {
+    width: 355px;
+}
+	
+button#btnshopdown {
+    margin-left: 40px;
+    margin-top: -3px;
+}
+div#inputs {
+margin-left: -40px;}
+
+
+div#linecontainer {
+    margin-left: 159px;
+    margin-top: -158px;}
+	
+}
+
+
+
 
 
 @media (max-width:375px) {
